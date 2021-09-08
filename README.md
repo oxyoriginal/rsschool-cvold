@@ -1,1 +1,1 @@
-# rsschool-cv https://github-Oxyoriginal.github.io/rsschool-cv/cv
+# rsschool-cv https://oxyoriginal.github.io/rsschool-cv/cv
