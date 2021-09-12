@@ -1,9 +1,10 @@
-**Aksana Prykhodko**
+#**Aksana Prykhodko**
+
 **Junior Frontend Developer**
 
 _**Location: Minsk, Belarus
-E-mail: rohanaok@gmail.com
-Phone number: +375297771135**_
+Phone number: +375297771135
+E-mail: rohanaok@gmail.com**_
 
 **About me**
 Hello. My name is Aksana. I was born in the Minsk and I live here now. I chose the IT sphere because it is interesting, in demand on the labor market, you can work remotely from home, you can work from any country, work involves constant learning new things. I entered to study at the Belarusian State University of Informatics and Radiophysics for a retraining course based on higher education as a web programmer. Additionally, she began her studies at Rolling Scopes Scholl to strengthen her knowledge.
