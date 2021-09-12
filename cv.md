@@ -1,4 +1,4 @@
-**#Aksana Prykhodkoh1**
+**# Aksana Prykhodko h1**
 
 **Junior Frontend Developer**
 
