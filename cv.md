@@ -20,8 +20,8 @@ My English is currently at A2 level. I study it on my own from playlists on YouT
 #
 
 _**Skills:**_
-1 Html
-2 CSS
+Html; 
+CSS
 *JavaScript basic
 *Github
 *Photoshop basic
