@@ -1,7 +1,9 @@
 **Aksana Prykhodko**
 
 **Junior Frontend Developer**
+
 #
+
 _**Location: Minsk, Belarus**_
 
 _**Phone number: +375297771135**_
