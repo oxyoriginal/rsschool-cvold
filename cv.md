@@ -20,24 +20,37 @@ My English is currently at A2 level. I study it on my own from playlists on YouT
 #
 
 _**Skills:**_
-Html; 
+
+HTML
+
 CSS
-*JavaScript basic
-*Github
-*Photoshop basic
-*Illustrator 
+
+JavaScript basic
+
+Github
+
+Photoshop basic
+
+Illustrator 
 
 #
 
 _**Courses:**_
-*Retraining on the basis of higher education at Belorussian State University informatics and radiophysics in the specialty Web-programmist in progress 
-*JavaScript and Frontend delovoper in RS School in progress 
+
+Retraining on the basis of higher education at Belorussian State University informatics and radiophysics in the specialty Web-programmist in progress 
+
+JavaScript and Frontend delovoper in RS School in progress 
 
 #
 
 _**Languages:**_
+
 Belarusian native 
+
 Russian native 
+
 English pre-intermediate
+
 Ukrainian basic
+
 Polish basic
