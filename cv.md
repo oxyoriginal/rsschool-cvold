@@ -1,11 +1,9 @@
-**# Aksana Prykhodko h1**
+**Aksana Prykhodko**
 
 **Junior Frontend Developer**
 
 _**Location: Minsk, Belarus
-
 Phone number: +375297771135
-
 E-mail: rohanaok@gmail.com**_
 
 **About me**
