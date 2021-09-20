@@ -1,0 +1,87 @@
+
+p {
+	color: #08DEEA;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-size: 60px;
+}
+
+.name {
+	background-color: #01012B;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 60px;
+	padding: 20px;
+}
+
+.name:hover {
+	background-color: #08DEEA;
+	
+}
+.fd {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 60px;
+	padding: 20px;
+}
+.phone {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.about {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.skill {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.course {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 20px;
+}
+.language {
+	background-color:  #005678;
+	color: #FD8091;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	height: auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 20px;
+}
